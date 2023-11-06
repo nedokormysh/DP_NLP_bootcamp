@@ -8,7 +8,7 @@
 
 ### 1-ый этап: scraping + parsing + EDA
 
-🔭 [Ноутбук с произведённым сбором и анализом данных](https://github.com/nedokormysh/lin_models_presentation/blob/eda_streamlit/EDA.ipynb) 
+🔭 [Ноутбук с произведённым сбором и анализом данных](https://github.com/nedokormysh/DP_NLP_bootcamp/blob/parsing/Fontanka_scraping_parsing.ipynb) 
 
 
 ### Автор 
