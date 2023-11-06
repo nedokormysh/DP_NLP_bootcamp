@@ -4,9 +4,11 @@
 
 ### Задача
 
+Написание telegram бота на основе новостного портала.
+
 ### 1-ый этап: scraping + parsing + EDA
 
-🔭 [Ноутбук с полноценным анализом](https://github.com/nedokormysh/lin_models_presentation/blob/eda_streamlit/EDA.ipynb) 
+🔭 [Ноутбук с произведённым сбором и анализом данных](https://github.com/nedokormysh/lin_models_presentation/blob/eda_streamlit/EDA.ipynb) 
 
 
 ### Автор 
